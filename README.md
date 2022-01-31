@@ -1,11 +1,6 @@
 # Olá, mundo! Eu sou o Matheus.
-<br>
-<div>
-  <a href="https://github.com/matheus-42">
-    <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=matheus-42&show_icons=true&theme=highcontrast"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-42&hide=html&layout=compact&theme=highcontrast"/>
-</div>
-<br>
+
+[![card](https://github-readme-stats.vercel.app/api?username=matheus-42&theme=highcontrast&show_icons=true)](https://github.com/matheus-42/)
   
 ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
