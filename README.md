@@ -35,6 +35,13 @@ Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, des
    <a href="candido.matheuspro@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+#### 
+  
+<div align="center">
+<img src="https://i.pinimg.com/564x/14/f8/6d/14f86d97842b4f5252cb3c170695a472.jpg" width="30%"/>
+</div>
+
   
 
 
