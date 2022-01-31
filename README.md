@@ -1,8 +1,5 @@
 # Olá, mundo! Eu sou o Matheus.
 
-<div>
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-</div>
 
 [![estatisticas](https://github-readme-stats.vercel.app/api?username=matheus-42&theme=highcontrast&show_icons=true)](https://github.com/matheus-42/)
 [![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-42&hide=html&layout=compact&theme=highcontrast)](https://github.com/matheus-42/)
