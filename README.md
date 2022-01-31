@@ -1,16 +1,19 @@
-### Olá, mundo! Eu sou o Matheus.
-
+# Olá, mundo! Eu sou o Matheus.
+<br>
 <div>
   <a href="https://github.com/matheus-42">
     <img height="180 em" src="https://github-readme-stats.vercel.app/api?username=matheus-42&show_icons=true&theme=highcontrast"/>
     <img height="180 em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-42&hide=html&layout=compact&theme=highcontrast"/>
 </div>
-
-
-
-
-
-
+<br>
+  
+![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+##
 
 
 
