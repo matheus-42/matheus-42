@@ -32,7 +32,7 @@ Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, des
   <a href="https://www.instagram.com/oliveiramatheusc/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-   <a href="candido.matheuspro@gmail.com" >
+   <a href="mailto:candido.matheuspro@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
