@@ -1,5 +1,5 @@
 # Olá, tudo bom? Eu sou o Matheus.
-Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, desde que tive meus primeiros contatos com o mundo da tecnologia. Sou técnico informática, recentemente me formei em ciência de dados e, por mais de  3 anos atuei como analista de suporte técnico. Atualmente estou "migrando" para o desenvovimento Front-end. Estou estudando, principalmente, pelo programa Oracle Next Education.
+Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, desde que tive meus primeiros contatos com o mundo da tecnologia. Sou técnico informática, recentemente me formei em ciência de dados e, por cerca de 3 anos  3 anos atuei como analista de suporte técnico. Atualmente estou "migrando" para o desenvovimento Front-end. Estou estudando, principalmente, pelo programa Oracle Next Education.
 <div align="center">
   <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.webp" width="30%"/>
 </div>
@@ -23,14 +23,14 @@ Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, des
 #
   
 <div align="center">
+  <a href="https://www.linkedin.com/in/candidomatheus/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/matheuscandido42/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
   <a href="https://t.me/matheus_42">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/candidomatheus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/oliveiramatheusc/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
    <a href="mailto:candido.matheuspro@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
