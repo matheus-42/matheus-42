@@ -1,5 +1,5 @@
 # Olá, tudo bom? Eu sou o Matheus.
-Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, desde que tive meus primeiros contatos com o mundo da tecnologia. Sou técnico informática, recentemente me formei em ciência de dados e, por cerca de 3 anos  3 anos atuei como analista de suporte técnico. Atualmente estou "migrando" para o desenvovimento Front-end. Estou estudando, principalmente, pelo programa Oracle Next Education.
+Tenho tido uma relação um tanto "conturbada" com a TI há mais de 10 anos, desde que tive meus primeiros contatos com o mundo da tecnologia. Sou técnico informática, recentemente me formei em ciência de dados e, por cerca de 3 anos atuei como analista de suporte técnico. Atualmente estou "migrando" para o desenvovimento Front-end. Estou estudando, principalmente, pelo programa Oracle Next Education.
 <div align="center">
   <img src="https://i.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.webp" width="30%"/>
 </div>
